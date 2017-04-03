@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jayj5\documents\github\disemvoweler\disemvoweler\disemvoweler\source.cpp(14): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+  Disemvoweler.vcxproj -> C:\Users\jayj5\Documents\GitHub\Disemvoweler\Disemvoweler\Debug\Disemvoweler.exe
+  Disemvoweler.vcxproj -> C:\Users\jayj5\Documents\GitHub\Disemvoweler\Disemvoweler\Debug\Disemvoweler.pdb (Partial PDB)
